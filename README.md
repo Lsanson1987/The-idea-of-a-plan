@@ -5,6 +5,7 @@ Ideally an tool that can be part of a larger learning omnibus
 
 Planned Features:
 * repository for assignments and upcoming tests in order to keep deadlines in focus
+* Project breakdown into subtasks
 * Input estimates for times manually
 * AI estimations for assignments that estimates the time it takes to do an assignment (based on previous performance/inputs)
 * Dropdown defaults for time estimates (easy, medium, hard)
