@@ -16,3 +16,4 @@ Planned Features:
 * Option to enable flow work, blocking off 90 minute sessions
 * Option to enable pomodoro with variable timing, blocking off 25 minute sessions with 5 minute breaks
 * Option to enable spaced repetition, attempting to space work sessions for the same subject to boost retention
+* OpenAI or other LLM premium mode, takes api key and asks to be fed tokens, uses LLM to enhance project breakdown and scheduling
