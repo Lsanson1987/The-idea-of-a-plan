@@ -6,7 +6,9 @@ Ideally an tool that can be part of a larger learning omnibus
 Planned Features:
 * repository for assignments and upcoming tests in order to keep deadlines in focus
 * Input estimates for times manually
-* AI estimations for assignments that estimates the time it takes to do an assignment
+* AI estimations for assignments that estimates the time it takes to do an assignment (based on previous performance/inputs)
+* Dropdown defaults for time estimates (easy, medium, hard)
+* Time to catchup on skipped lectures
 * Alternative mode for self learners (self study with no teacher providing deadlines) will generate deadlines for you to keep you challenged
 * Leitner system implemented for spaced repetition. 
 * Connects to Google Calendar to perform two way communication, allowing study times to be scheduled into your calendar while avoiding busy times
