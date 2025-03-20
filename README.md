@@ -17,3 +17,8 @@ Planned Features:
 * Option to enable pomodoro with variable timing, blocking off 25 minute sessions with 5 minute breaks
 * Option to enable spaced repetition, attempting to space work sessions for the same subject to boost retention
 * OpenAI or other LLM premium mode, takes api key and asks to be fed tokens, uses LLM to enhance project breakdown and scheduling
+
+Prereqs:
+* install the Google client library for Python:
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+*
